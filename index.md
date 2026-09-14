@@ -1,6 +1,6 @@
 # Privacy Policy for ADYA
 
-_Last updated: 13 September 2026_
+_Last updated: 14 September 2026_
 
 ADYA is a personal task app. This policy describes what it collects, why, and
 what you can do about it.
@@ -78,4 +78,4 @@ above and, where significant, noted in the app's release notes.
 
 ## Contact
 
-Questions or data requests: sarangupadhye007@gmail.com
+Questions or data requests: techietriumphbusiness@gmail.com
